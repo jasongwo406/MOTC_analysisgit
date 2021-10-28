@@ -1,0 +1,6 @@
+#ignore folders
+junk/*
+Split_Roads/*
+spatial_join_file.*
+temp.csv
+temp1.csv
